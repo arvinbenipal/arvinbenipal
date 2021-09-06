@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @arvinbenipal
+- 👀 I’m interested in computer science, UX design, web development, and photography
+- 🌱 I’m currently attending Wilfrid Laurier University for Computer Science
